@@ -1,0 +1,23 @@
+{
+  "name": "test-driven-dev-red-green-refactor-mark-b",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-bradley1/test-driven-dev-red-green-refactor-mark-b.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark-bradley1/test-driven-dev-red-green-refactor-mark-b/issues"
+  },
+  "homepage": "https://github.com/mark-bradley1/test-driven-dev-red-green-refactor-mark-b#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
